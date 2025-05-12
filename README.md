@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samyak Jain</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
-<img align="right" alt="coding" width="400" src+"https://as2.ftcdn.net/v2/jpg/08/26/29/79/1000_F_826297995_gHRLKyv4GIP3m59PPertUglA2bTG9eoc.jpg">
+<img align="right" alt="coding" width="400" src="https://as2.ftcdn.net/v2/jpg/08/26/29/79/1000_F_826297995_gHRLKyv4GIP3m59PPertUglA2bTG9eoc.jpg">
 <p align="left"> <a href="https://twitter.com/samy_2212" target="blank"><img src="https://img.shields.io/twitter/follow/samy_2212?logo=twitter&style=for-the-badge" alt="samy_2212" /></a> </p>
 
 - 🌱 I’m currently learning **NextJs**
